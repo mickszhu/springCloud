@@ -17,7 +17,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///test?useUnicode=true&amp;characterEncoding=utf8
     username: root
-    password: 111
+    password: 123456
 
 # 配置日志
 logging:
